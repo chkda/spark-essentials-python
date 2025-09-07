@@ -1,0 +1,12 @@
+[project]
+name = "spark-essentials-python"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.2",
+    "pandas>=2.3.2",
+    "pyarrow>=21.0.0",
+    "pydantic>=2.11.7",
+    "pyspark>=4.0.0",
+]
